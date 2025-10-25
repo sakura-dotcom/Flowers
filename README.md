@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
 <title>Сайт флориста "Сакура" 🌸</title>
